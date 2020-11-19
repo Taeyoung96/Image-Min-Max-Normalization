@@ -13,7 +13,7 @@
 Ubuntu 18.04를 기준으로 터미널 창에 다음과 같이 입력한다.  
 - `git clone https://github.com/Taeyoung96/Image_Min_Max_Normalization.git`  
 - `cd Image_Min_Max_Normalization`  
-- `python main.py`  
+- `python main.py` **`main.py`안에 있는 절대 경로를 자신의 경로에 맞춰서 실행해주자!**
 
 
 
