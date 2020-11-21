@@ -2,6 +2,7 @@
 
 ## Requirements
 - Opencv
+- Numpy
 
 ## Repository 설명
 `gt_depth`에 있는 이미지들을 모두 불러온 다음,  
