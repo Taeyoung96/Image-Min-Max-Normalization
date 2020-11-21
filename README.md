@@ -1,5 +1,8 @@
 # Image Min Max Normalization
 
+## Requirements
+- Opencv
+
 ## Repository 설명
 `gt_depth`에 있는 이미지들을 모두 불러온 다음,  
 각각 이미지 마다 max value 값을 계산하고 평균을 낸다.  
